@@ -1,0 +1,25 @@
+{
+  "assets": [
+    {
+      "id": "whisper_quran_model",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/whisper_quran_model_v1.zip",
+      "size_mb": 446,
+      "file": "whisper_quran_model_v1.zip"
+    },
+    {
+      "id": "onyx_sahih_full",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/onyx_sahih_full.zip",
+      "size_mb": 780,
+      "file": "onyx_sahih_full.zip"
+    },
+    {
+      "id": "alafasy_full",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/alafasy_full.zip",
+      "size_mb": 859,
+      "file": "alafasy_full.zip"
+    }
+  ]
+}
