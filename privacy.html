@@ -33,7 +33,7 @@
     <li>No account, no sign-in, no advertising, no analytics trackers, and no sale of data.</li>
     <li>Recitation is recognized on your iPhone. Audio is not uploaded to our servers.</li>
     <li>Your location is used on the device for prayer times and the Qibla direction and is never sent to us.</li>
-    <li>Two optional features contact our server: AI verse explanations and premium spoken translations. They send verse references and, for explanations, your question. They never send audio, location, or your identity.</li>
+    <li>Three optional features contact our server: AI verse explanations, AI topic search and premium spoken translations. They send verse references and, for explanations and search, the words you typed. They never send audio, location, or your identity.</li>
   </ul>
 
   <h2>What the app processes and where</h2>
@@ -41,9 +41,9 @@
     <tr><th>Data</th><th>Purpose</th><th>Where it is processed</th></tr>
     <tr><td>Microphone audio</td><td>Identifying the verse being recited and following the imam</td><td>On your iPhone (a speech model bundled with or downloaded by the app). Short phrases such as "Ameen" may be recognized by Apple's speech service under <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a>.</td></tr>
     <tr><td>Location</td><td>Prayer times, adhan reminders, Qibla direction</td><td>On your iPhone only.</td></tr>
-    <tr><td>Verse references (for example "2:255") and your language</td><td>Fetching premium spoken translations and AI explanations</td><td>Our server (hosted on Modal). Explanations are generated with Google Gemini from classical tafsir text; the request contains the verse reference, your language, and the question you typed. Responses are cached so the same verse is not generated twice.</td></tr>
+    <tr><td>Verse references (for example "2:255") and your language</td><td>Fetching premium spoken translations, AI explanations and AI topic search</td><td>Our server (hosted on Modal). Explanations and search suggestions are generated with Google Gemini (explanations from classical tafsir text); the request contains the verse reference or search words, your language, and any question you typed. Responses are cached without any identifier so the same request is not generated twice.</td></tr>
     <tr><td>Prayer history</td><td>Letting you replay what you heard</td><td>Stored on your iPhone. You can delete entries in the app.</td></tr>
-    <tr><td>Diagnostic logs</td><td>Fixing recognition problems</td><td>Off by default. If you turn on "Cloud Logging" in Settings → Developer, technical logs (timings, recognized verse numbers, error messages, no audio) are sent to our server and deleted within 30 days.</td></tr>
+    <tr><td>Diagnostic logs</td><td>Fixing recognition and playback problems</td><td>Off by default. If you turn on "Share diagnostics with the developer" in Settings → Help improve Jumu'ah, the app's technical log (timings, recognized text and verse numbers, what was played, error messages, the phone model, iOS version and app build — never audio, your location or your name) is sent to our server and deleted within 30 days. You can turn it off at any time; "Send today's log now" sends only when you tap it.</td></tr>
   </table>
 
   <h2>Purchases</h2>
