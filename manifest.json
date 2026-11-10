@@ -144,7 +144,7 @@
       "id": "voice_japanese_prayer",
       "version": 1,
       "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_japanese_prayer_v1.zip",
-      "size_mb": 79,
+      "size_mb": 78,
       "file": "voice_japanese_prayer_v1.zip"
     },
     {
@@ -193,7 +193,7 @@
       "id": "voice_azeri_prayer",
       "version": 1,
       "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_azeri_prayer_v1.zip",
-      "size_mb": 59,
+      "size_mb": 58,
       "file": "voice_azeri_prayer_v1.zip"
     },
     {
@@ -249,7 +249,7 @@
       "id": "voice_amharic_prayer",
       "version": 1,
       "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_amharic_prayer_v1.zip",
-      "size_mb": 71,
+      "size_mb": 63,
       "file": "voice_amharic_prayer_v1.zip"
     }
   ]
