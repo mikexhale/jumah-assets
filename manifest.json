@@ -20,6 +20,160 @@
       "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/alafasy_full.zip",
       "size_mb": 859,
       "file": "alafasy_full.zip"
+    },
+    {
+      "id": "voice_urdu_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_urdu_prayer_v1.zip",
+      "size_mb": 61,
+      "file": "voice_urdu_prayer_v1.zip"
+    },
+    {
+      "id": "voice_indonesian_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_indonesian_prayer_v1.zip",
+      "size_mb": 66,
+      "file": "voice_indonesian_prayer_v1.zip"
+    },
+    {
+      "id": "voice_malay_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_malay_prayer_v1.zip",
+      "size_mb": 91,
+      "file": "voice_malay_prayer_v1.zip"
+    },
+    {
+      "id": "voice_turkish_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_turkish_prayer_v1.zip",
+      "size_mb": 67,
+      "file": "voice_turkish_prayer_v1.zip"
+    },
+    {
+      "id": "voice_bengali_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_bengali_prayer_v1.zip",
+      "size_mb": 69,
+      "file": "voice_bengali_prayer_v1.zip"
+    },
+    {
+      "id": "voice_hindi_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_hindi_prayer_v1.zip",
+      "size_mb": 63,
+      "file": "voice_hindi_prayer_v1.zip"
+    },
+    {
+      "id": "voice_persian_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_persian_prayer_v1.zip",
+      "size_mb": 79,
+      "file": "voice_persian_prayer_v1.zip"
+    },
+    {
+      "id": "voice_french_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_french_prayer_v1.zip",
+      "size_mb": 52,
+      "file": "voice_french_prayer_v1.zip"
+    },
+    {
+      "id": "voice_spanish_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_spanish_prayer_v1.zip",
+      "size_mb": 58,
+      "file": "voice_spanish_prayer_v1.zip"
+    },
+    {
+      "id": "voice_italian_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_italian_prayer_v1.zip",
+      "size_mb": 51,
+      "file": "voice_italian_prayer_v1.zip"
+    },
+    {
+      "id": "voice_german_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_german_prayer_v1.zip",
+      "size_mb": 56,
+      "file": "voice_german_prayer_v1.zip"
+    },
+    {
+      "id": "voice_portuguese_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_portuguese_prayer_v1.zip",
+      "size_mb": 53,
+      "file": "voice_portuguese_prayer_v1.zip"
+    },
+    {
+      "id": "voice_russian_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_russian_prayer_v1.zip",
+      "size_mb": 58,
+      "file": "voice_russian_prayer_v1.zip"
+    },
+    {
+      "id": "voice_chinese_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_chinese_prayer_v1.zip",
+      "size_mb": 49,
+      "file": "voice_chinese_prayer_v1.zip"
+    },
+    {
+      "id": "voice_dutch_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_dutch_prayer_v1.zip",
+      "size_mb": 55,
+      "file": "voice_dutch_prayer_v1.zip"
+    },
+    {
+      "id": "voice_tagalog_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_tagalog_prayer_v1.zip",
+      "size_mb": 66,
+      "file": "voice_tagalog_prayer_v1.zip"
+    },
+    {
+      "id": "voice_vietnamese_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_vietnamese_prayer_v1.zip",
+      "size_mb": 62,
+      "file": "voice_vietnamese_prayer_v1.zip"
+    },
+    {
+      "id": "voice_japanese_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_japanese_prayer_v1.zip",
+      "size_mb": 79,
+      "file": "voice_japanese_prayer_v1.zip"
+    },
+    {
+      "id": "voice_korean_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_korean_prayer_v1.zip",
+      "size_mb": 59,
+      "file": "voice_korean_prayer_v1.zip"
+    },
+    {
+      "id": "voice_hausa_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_hausa_prayer_v1.zip",
+      "size_mb": 70,
+      "file": "voice_hausa_prayer_v1.zip"
+    },
+    {
+      "id": "voice_somali_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_somali_prayer_v1.zip",
+      "size_mb": 61,
+      "file": "voice_somali_prayer_v1.zip"
+    },
+    {
+      "id": "voice_swahili_prayer",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_swahili_prayer_v1.zip",
+      "size_mb": 113,
+      "file": "voice_swahili_prayer_v1.zip"
     }
   ]
 }
