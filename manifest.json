@@ -475,6 +475,13 @@
       "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_somali_full_v1.zip",
       "size_mb": 1097,
       "file": "voice_somali_full_v1.zip"
+    },
+    {
+      "id": "voice_swahili_full",
+      "version": 1,
+      "url": "https://github.com/mikexhale/jumah-assets/releases/download/v1/voice_swahili_full_v1.zip",
+      "size_mb": 1743,
+      "file": "voice_swahili_full_v1.zip"
     }
   ]
 }
