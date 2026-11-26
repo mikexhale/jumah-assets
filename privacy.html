@@ -24,7 +24,7 @@
 <main>
   <nav><a href="index.html">Jumu'ah</a><a href="support.html">Support</a></nav>
   <h1>Privacy Policy</h1>
-  <p class="meta">Jumu'ah for iOS · Effective 25 November 2026 · Developer: Thaer Ahmad</p>
+  <p class="meta">Jumu'ah for iOS · Effective 26 November 2026 · Developer: Thaer Ahmad</p>
 
   <p>Jumu'ah listens to Quran recitation and plays the translation in your earphones. It is built to work on your iPhone without an account. This page explains exactly what leaves your device and why.</p>
 
@@ -33,7 +33,7 @@
     <li>No account, no sign-in, no advertising, no analytics trackers, and no sale of data.</li>
     <li>In the mosque, a speech model on your iPhone follows the recitation, and Apple's speech recognition listens alongside it. Praying alone, Recite and Imam mode use Apple's speech recognition. Apple's recognition can process audio on Apple's servers when you are online, under Apple's privacy policy. Audio is never sent to our servers and is not recorded.</li>
     <li>Your location is used on the device for prayer times and the Qibla direction and is never sent to us.</li>
-    <li>Three optional features contact our server: AI verse explanations, AI topic search and premium spoken translations. They send verse references and, for explanations and search, the words you typed. They never send audio, location, or your identity.</li>
+    <li>Three optional features contact our server: AI verse explanations, AI topic search and premium spoken translations. They send verse references and, for explanations and search, the words you typed. They never send audio, location, or your identity. Explanations and search use Google Gemini, and the app asks your permission before either sends anything.</li>
   </ul>
 
   <h2>What the app processes and where</h2>
@@ -41,7 +41,7 @@
     <tr><th>Data</th><th>Purpose</th><th>Where it is processed</th></tr>
     <tr><td>Microphone audio</td><td>Identifying the verse being recited and following the imam</td><td>On your iPhone (a speech model bundled with or downloaded by the app), with Apple's speech recognition listening alongside it; Apple's service may process audio on Apple's servers under <a href="https://www.apple.com/legal/privacy/">Apple's privacy policy</a>.</td></tr>
     <tr><td>Location</td><td>Prayer times, adhan reminders, Qibla direction</td><td>On your iPhone only.</td></tr>
-    <tr><td>Verse references (for example "2:255") and your language</td><td>Fetching premium spoken translations, AI explanations and AI topic search</td><td>Our server (hosted on Modal). Explanations and search suggestions are generated with Google Gemini (explanations from classical tafsir text); the request contains the verse reference or search words, your language, and any question you typed. Responses are cached without any identifier so the same request is not generated twice.</td></tr>
+    <tr><td>Verse references (for example "2:255") and your language</td><td>Fetching premium spoken translations, AI explanations and AI topic search</td><td>Our server (hosted on Modal). Explanations and search suggestions are generated with Google Gemini (explanations from classical tafsir text); the request contains the verse reference or search words, your language, and any question you typed. Before the first explanation and before the first AI search, the app shows what will be sent and that it goes to Google Gemini, and sends nothing unless you tap Allow. Google processes these requests for us under its paid Gemini API terms: it does not use them to improve its products and keeps them only for a limited time to detect abuse, which protects this data at least as well as this policy does. Responses are cached without any identifier so the same request is not generated twice.</td></tr>
     <tr><td>Prayer history</td><td>Letting you replay what you heard</td><td>Stored on your iPhone. You can delete entries in the app.</td></tr>
     <tr><td>Diagnostic logs</td><td>Fixing recognition and playback problems</td><td>Off by default. If you turn on "Share diagnostics with the developer" in Settings → Help improve Jumu'ah, the app's technical log (timings, recognized text and verse numbers, what was played, error messages, the phone model, iOS version and app build — never audio, your location or your name) is sent to our server and deleted within 30 days. You can turn it off at any time; "Send today's log now" sends only when you tap it.</td></tr>
   </table>
@@ -55,7 +55,7 @@
   <h2>Your choices</h2>
   <ul>
     <li>Microphone and location permissions can be changed at any time in iOS Settings; the app keeps working with reduced features.</li>
-    <li>AI explanations run only when you tap Explain. Premium voices for the language you chose are prepared on our server and kept on your iPhone; where none is available, the app uses the voices built into iOS.</li>
+    <li>AI explanations and AI search run only after you allow them on their permission screen, and only when you tap Explain or search; if you tap Don't Allow, nothing is sent. Premium voices for the language you chose are prepared on our server and kept on your iPhone; where none is available, the app uses the voices built into iOS.</li>
     <li>Deleting the app removes all data stored on your iPhone.</li>
   </ul>
 
